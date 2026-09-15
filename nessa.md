@@ -1,3 +1,3 @@
 - Nessa Begay
-- I regularly use the Apple music software.
+- I regularly use the Apple music software and the TikTok software
 - I want to understand software engineering beyond just writing code. I want to understand how the overall process works and how software is developed.
